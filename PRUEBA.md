@@ -29,4 +29,9 @@
 [image6]: "img/EJERCICIO 6.png"
 ![Con titulo][image6]
 
+## EJERCICIO 7
+![Con titulo](img/Captura 7.png "Ejercicio7")
+
+
+
 
