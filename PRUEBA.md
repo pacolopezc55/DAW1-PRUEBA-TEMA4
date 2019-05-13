@@ -25,6 +25,8 @@
 
 ![Con titulo](img/EJERCICIO5.png "Ejercicio 5")
 ## EJERCICIO 6
-![Con titulo](img/EJERCICIO 6.png "Ejercicio 6")
+
+[image6]: "img/EJERCICIO 6.png"
+![Con titulo][image6]
 
 
